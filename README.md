@@ -1,2 +1,6 @@
-# web-425
-Assignments for class web-425
+# WEB 425 Angular with TypeScript
+
+## Contributors
+
+* Professor Krasso
+* Boyd Vigness
